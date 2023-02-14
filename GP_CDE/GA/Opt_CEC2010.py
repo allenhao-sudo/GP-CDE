@@ -1,5 +1,5 @@
 from constrained_GA import constrained_GeneticAlgorithm
-from CEC2010 import CEC2010
+from ..CEC2010 import CEC2010
 import matlab.engine
 import numpy as np
 import os
