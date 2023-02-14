@@ -1,5 +1,5 @@
 from PyDE import DiffEvol
-from CEC2017 import CEC2017
+from ..CEC2017 import CEC2017
 import matlab.engine
 import numpy as np
 import os
