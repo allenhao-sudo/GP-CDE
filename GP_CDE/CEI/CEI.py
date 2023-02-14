@@ -1,7 +1,7 @@
 import os
 import numpy as np
-from CEC2010 import CEC2010
-from CEC2017 import CEC2017
+from ..CEC2010 import CEC2010
+from ..CEC2017 import CEC2017
 from experimental_design import SymmetricLatinHypercube
 from sample_feasible import sample_feasible
 from sample_infeasible import sample_infeasible
